@@ -58,7 +58,7 @@ Create a compelling sales data story using **Tableau** by designing an interacti
 ---
 
 ## 🎥 Dashboard Demo
-[Dashboard Demo](dashboard_demo.gif) 
+![Dashboard Demo](dashboard_demo.gif) 
 
 ---
 
