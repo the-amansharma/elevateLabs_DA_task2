@@ -53,13 +53,12 @@ Create a compelling sales data story using **Tableau** by designing an interacti
 ## 📥 Files Included
 - `sales_dashboard.twb` (Tableau Workbook)
 - `superstore_cleaned.csv` (Dataset)
-- (Optional) `dashboard_demo.gif` (Demo of Dashboard Interaction)
+- `dashboard_demo.gif` (Demo of Dashboard Interaction)
 
 ---
 
 ## 🎥 Dashboard Demo
-Uncomment below line once you add a demo GIF 
-![Dashboard Demo](dashboard_demo.gif) 
+[Dashboard Demo](dashboard_demo.gif) 
 
 ---
 
